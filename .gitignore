@@ -1,0 +1,25 @@
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Python 
+__pycache__/
+*.pyc
+venv/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.log
+
+.env
+__pycache__/
+*.pyc
+website/website_files/.git/
