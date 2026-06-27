@@ -1,0 +1,4 @@
+mobile_app/airnest_app/linux/* linguist-vendored
+mobile_app/airnest_app/windows/* linguist-vendored
+mobile_app/airnest_app/macos/* linguist-vendored
+mobile_app/airnest_app/ios/* linguist-vendored
