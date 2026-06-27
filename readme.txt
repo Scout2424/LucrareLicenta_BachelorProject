@@ -1,3 +1,5 @@
+GitHub link: https://github.com/Scout2424/LucrareLicenta_BachelorProject.git
+
 English Variant
 
 Instructions to use AirNest, Bachelor Degree Project
